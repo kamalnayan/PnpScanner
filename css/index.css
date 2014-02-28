@@ -1,0 +1,30 @@
+
+* {
+}
+body {
+    font:'Lucida sans',Arial,Helvetica;
+    text-align: center;
+    left:0px;
+    background-color:#E8E8E8 ;
+}
+
+#scan {
+ 
+  background-color: #ffffff;
+  color:#505050  ;
+  text-decoration:none;
+  margin-top: 8em;
+  padding-top: 0.4em;
+  padding-bottom: 0.4em;
+  text-align:center;
+  font-size:20px;
+  border:1px solid #E0E0E0;
+  width:91%;
+ 
+}
+.app
+{
+width:100%;
+left:0;
+}
+
